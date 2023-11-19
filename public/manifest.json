@@ -1,6 +1,6 @@
 {
   "short_name": "Diamond Laundry",
-  "name": "Zeinan Ramadan",
+  "name": "Diamond Laundry",
   "icons": [
     {
       "src": "DiamondLaundry.png",
@@ -18,7 +18,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "index.html",
+  "start_url": "/index.html",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"

@@ -1,10 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
-import '../public/manifest.json'
 
 function App() {
   return (
     <div className="App">
+      <link rel="manifest" href="./manifest.json"></link>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
